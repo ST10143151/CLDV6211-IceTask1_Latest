@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcReminder", "MvcReminder\MvcReminder.csproj", "{9747350F-7A3F-4965-A3AC-30C8E9A88DA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9747350F-7A3F-4965-A3AC-30C8E9A88DA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9747350F-7A3F-4965-A3AC-30C8E9A88DA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9747350F-7A3F-4965-A3AC-30C8E9A88DA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9747350F-7A3F-4965-A3AC-30C8E9A88DA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87531513-55E6-40DA-9DFB-A3C89D164B87}
+	EndGlobalSection
+EndGlobal
